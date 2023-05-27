@@ -39,7 +39,7 @@ footer {
         "header"
         "main"
         "footer";
-    grid-template-columns: auto;
+    grid-template-columns: none;
     grid-template-rows: max-content;
 }
 
