@@ -181,7 +181,7 @@ a {
 .box-msj {
     /* border: 1px solid blue; */
     background-color: var(--init-text);
-    height: 3rem;
+    min-height: 3rem;
     font-size: 23px;
     padding: 0.5rem 0.5rem;
     justify-content: space-between;
